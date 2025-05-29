@@ -1,2 +1,2 @@
-# -koTrackUi
+# MinAfkastUi
 A low key personnal tracker of different income sources
