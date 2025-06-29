@@ -1,2 +1,2 @@
-# MinAfkastUi
-A low key personnal tracker of different income sources
+# MinAfkastApi
+A restful API providing the wanted information or updates for financial positions 
